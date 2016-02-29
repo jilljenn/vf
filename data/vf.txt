@@ -1,0 +1,8 @@
+$2 + 2 = 5$. FAUX
+$6 \times 7 = 42$. VRAI
+L'ornithorynque est un mammifère. VRAI
+$\displaystyle \forall \lambda \in \mathbb{C} \setminus \mathbb{R}, \int_{-\infty}^\infty \frac{dx}{x - \lambda} = i \pi \cdot \textrm{sgn}(\Im(\lambda)).$ VRAI
+$\mathsf{P} = \mathsf{NP}$. VRAI
+Roger ne porte jamais de cravate. FAUX
+3 + 4 vaut VRAIMENT 8. FAUX
+Oui ou non ? VRAI
